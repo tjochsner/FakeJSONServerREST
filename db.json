@@ -1,4 +1,5 @@
-[{
+{
+  "posts": [{
     "ins_rec_number_pri": null,
     "units": 1.00,
     "account_id": 77631,
@@ -190,4 +191,12 @@
     "description": "NULL                          ",
     "modifier1": null,
     "referral_source_id": null
-}]
+}],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
